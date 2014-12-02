@@ -7,5 +7,9 @@
     <string name="btnAddLabel">Add New Item</string>
     <string name="title_activity_grid_view">GridViewActivity</string>
     <string name="title_activity_image_detail">ImageDetail</string>
+    <string name="help">help</string>
+    <string name="more_help">more help</string>
+    <string name="even_more_help">even more help</string>
+    <string name="give_up">give up</string>
 
 </resources>

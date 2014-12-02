@@ -25,6 +25,7 @@ public class MyActivity extends Activity {
     private ArrayList itemsArray;
     private ArrayAdapter itemsAdapter;
     public String TAG = "MY ACTIVITY";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -71,7 +72,7 @@ public class MyActivity extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
+
         getMenuInflater().inflate(R.menu.my, menu);
         return true;
     }
